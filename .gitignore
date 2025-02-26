@@ -1,0 +1,24 @@
+*.d.ts
+node_modules
+dist
+cdk.out
+
+# CDK asset staging directory
+.cdk.staging
+cdk.out
+
+# Parcel default cache directory
+.parcel-cache
+
+# IDE
+.idea
+.vscode
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Config
+src/lambda/config.ts
