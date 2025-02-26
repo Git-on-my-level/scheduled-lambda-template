@@ -42,11 +42,6 @@ Run the test suite (will fail with no tests):
 npm test
 ```
 
-The project includes:
-- Unit tests for individual components
-- Integration tests with mocked external services
-- Live integration tests against the Curve API
-
 ## Linting
 
 The project uses ESLint with TypeScript support for code quality.
