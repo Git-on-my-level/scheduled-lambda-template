@@ -2,6 +2,10 @@
 
 A TypeScript AWS Lambda bot that runs on a schedule to perform some simple task.
 
+It's like having an easy way to create cron jobs on AWS that cost almost nothing to maintain!
+
+If this has helped you please consider giving it a star!
+
 ## Prerequisites
 
 - Node.js v18 or later
